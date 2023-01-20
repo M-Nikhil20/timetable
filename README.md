@@ -105,8 +105,12 @@ Execute the program
 ```
 
 ### OUTPUT
-![OUTPUT](/Screenshot%20(46).png)
+
+![Screenshot_20230120_084023](https://user-images.githubusercontent.com/118707852/213609920-d1e45894-af28-423e-94a1-8541278b546e.png)
+
 # HTML VALIDATOR
-![HTML_VALIDATOR](/Screenshot%20(47).png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/118707852/213609983-4e887979-5eab-460d-9d5b-e8866bb26027.png)
+
 # RESULT
 The program for creating slot timetable is completed successully.
